@@ -36,7 +36,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
     
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <a href="https://tryhackme.com/room/zeekbro" target="_blank">
+  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" alt="Zeek Badge" />
+</a>
+
 </div>
 
 ### Endpoint
