@@ -64,7 +64,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.credly.com/badges/ecb39aee-1b47-4488-b126-620caf389ca7/public_url" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
 </a><a href="https://learn.microsoft.com/en-us/users/eddievann-9951/transcript/drjyqfy4ye95mjj" target="_blank">
-  <img src="https://img.shields.io/badge/-Microsoft Azure Fundamentals AZ-900-000080?&style=for-the-badge&logoColor=white" alt="Azure Fundamentals AZ-900 Badge" />
+  <img src="https://img.shields.io/badge/-Microsoft Azure Fundamentals AZ-900-000080?&style=for-the-badge&logoColor=white" alt="Microsoft Azure Fundamentals AZ-900 Badge" />
 </a>
 
 
