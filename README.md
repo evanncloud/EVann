@@ -66,7 +66,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 <a href="https://learn.microsoft.com/en-us/users/eddievann-9951/transcript/drjyqfy4ye95mjj" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Microsoft%20AZ--900-?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AZ-900" />
+  <img src="https://img.shields.io/badge/Microsoft%20AZ--900-=microsoft&logoColor=white" alt="Microsoft AZ-900" />
 </a>
 
 
