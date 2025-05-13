@@ -1,7 +1,7 @@
 # Hello, I'm Eddie Vann Jr.
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 I have a profound interest in technology and a dedication to solving complex problems.
 
@@ -72,4 +72,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/evanncloud/Detection-Lab/blob/main/README.md">Detection Lab</a>
-- SOC Automation Project
+
