@@ -65,8 +65,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
 
 <a href="https://learn.microsoft.com/en-us/users/eddievann-9951/transcript/drjyqfy4ye95mjj" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Microsoft%20AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AZ-900" />
-</a>
+ 
 
 
 
