@@ -64,7 +64,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://learn.microsoft.com/en-us/users/eddievann-9951/transcript/drjyqfy4ye95mjj" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Microsoft%20AZ--900-=microsoft&logoColor=white" alt="Microsoft AZ-900" />
 </a>
-
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6STINMP8FY.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Try Hack ME-000080?&style=for-the-badge&logoColor=white" />
+</a>
 
 
 
