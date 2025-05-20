@@ -59,7 +59,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </a>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <a href="https://www.credly.com/badges/ecb39aee-1b47-4488-b126-620caf389ca7/public_url" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
