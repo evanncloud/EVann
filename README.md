@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Detection and Log Analysis          | <a href="https://github.com/evanncloud/Detection-Lab/blob/main/README.md">Detection Lab</a>|
+| Honeypot Lab          | <a href="https://github.com/evanncloud/Detection-Lab/blob/main/README.md">Detection Lab</a>|
 
 
 ## Tools
