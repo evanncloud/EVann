@@ -57,6 +57,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <a href="https://tryhackme.com/room/investigatingwithelk101" target="_blank">
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </a>
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
