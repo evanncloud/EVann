@@ -71,6 +71,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6STINMP8FY.png" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Try Hack ME-000080?&style=for-the-badge&logoColor=white" />
 </a>
+<a href="https://coursera.org/share/d9cde3794b7e78c2d531c16628f26ed4" target="_blank">
+  <img src="https://img.shields.io/badge/-Palo Alto Network Cybersecurity-006400?&style=for-the-badge&logoColor=white" alt="Palo Alto Network Cybersecurity Badge">
+</a>
 
 
 
